@@ -1,0 +1,24 @@
+.container_info {
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    height: 65%;
+    border-radius: 10px;
+    background-color: white;
+}
+
+
+.text {
+    box-sizing: border-box;
+    padding: 2%;
+    resize: none;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    font-family: Arial;
+    font-size: medium;
+}
+
+.text:focus {
+    outline: none;
+}

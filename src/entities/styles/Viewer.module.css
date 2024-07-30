@@ -1,0 +1,13 @@
+.container_filter_board {
+    width: 33%;
+    height: 100%;
+}
+
+.container_slider_panel {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 66%;
+    height: 100%;
+}

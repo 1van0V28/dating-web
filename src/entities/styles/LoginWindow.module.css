@@ -1,0 +1,17 @@
+.window {
+    box-sizing: content-box;
+    display: inline-flex;
+    width: 58%;
+    height: 58%;
+    background-color: white;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 15px;
+    border-color: #6930c3;
+}
+
+
+.container_button {
+    display: flex;
+    width: 50%;
+}

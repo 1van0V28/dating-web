@@ -1,0 +1,9 @@
+.container_sider{
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-right-color: black;
+}

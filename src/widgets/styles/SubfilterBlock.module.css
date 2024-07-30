@@ -1,0 +1,12 @@
+.container_subfilters {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+
+.container_subfilters_hidden {
+    overflow: hidden;
+    height: 0%;
+}

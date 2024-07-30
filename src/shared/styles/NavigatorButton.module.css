@@ -1,0 +1,18 @@
+.button,
+.button_chosen {
+    margin: 0 0 0 2%;
+    padding: 1vh;
+    font-size: medium;
+    border-radius: 20px;
+    background-color: #80ffdb;
+    color: white;
+    cursor: pointer;
+}
+
+.button:hover {
+    color: #7400b8;
+}
+
+.button_chosen {
+    color: #7400b8;
+}

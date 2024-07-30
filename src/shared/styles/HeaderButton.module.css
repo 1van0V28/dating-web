@@ -1,0 +1,12 @@
+.button {
+    margin: 0 1vw 0 0;
+    width: 6vh;
+    height: 6vh;
+    border-radius: 50%;
+    background-color: white;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #e9ecef
+}

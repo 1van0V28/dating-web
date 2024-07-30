@@ -1,0 +1,14 @@
+.window {
+    width: 80%;
+    height: 90%;
+}
+
+
+.user {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}

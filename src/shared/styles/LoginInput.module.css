@@ -1,0 +1,8 @@
+.input {
+    width: 66%;
+    height: 15%;
+    background-color: gainsboro;
+    border-radius: 10px;
+    font-size: large;
+    padding-inline: 10px;
+}

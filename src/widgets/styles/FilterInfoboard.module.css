@@ -1,0 +1,10 @@
+.container_infoboard {
+    display: inline-flex;
+    width: 95%;
+    height: 100%;
+}
+
+.container_infoboard_hidden {
+    overflow: hidden;
+    width: 0%;
+}

@@ -1,0 +1,17 @@
+.container_button_left,
+.container_button_right {
+    display: flex;
+    display: inline-flex;
+    height: 70%;
+    width: 50%;
+}
+
+.container_button_left {
+    margin: 0 0 0 1%;
+    justify-content: left;
+}
+
+.container_button_right {
+    margin: 0 1% 0 0;
+    justify-content: right;
+}

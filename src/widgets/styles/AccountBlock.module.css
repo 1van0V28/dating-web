@@ -1,0 +1,12 @@
+.container_block,
+.container_block_hidden {
+    margin: 3vw 1vw 0 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.container_block_hidden {
+    display: none;
+}

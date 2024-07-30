@@ -1,0 +1,21 @@
+.title {
+    margin: 0 0 0 5px;
+    font-size: medium; 
+    cursor: pointer;
+}
+
+
+.input {
+    box-sizing: border-box;
+    padding: 1vh 0 1vh 1vw;
+    width: 100%;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #ced4da;
+    font-size: large;
+}
+
+.input:focus {
+    outline: none;
+    border-color: #7400b8;
+}

@@ -1,0 +1,27 @@
+.container_filter {
+    overflow: hidden;
+    margin: 1vw 0 0 1vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 15vw;
+    min-height: 96%;
+    border-radius: 10px;
+    background-color: white;
+}
+
+
+.container_form {
+    width: 100%;
+    height: 100%;
+}
+
+
+.container_button {
+    margin: 1vh 0 1vh 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 90%;
+    height: 12vh;
+}

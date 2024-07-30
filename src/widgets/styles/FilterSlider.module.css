@@ -1,0 +1,29 @@
+.container_filter {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+
+.container_subfilter {
+    overflow: hidden;
+    height: 0;
+    border: none;
+}
+
+.container_subfilter_opened {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    background-color: white;
+}

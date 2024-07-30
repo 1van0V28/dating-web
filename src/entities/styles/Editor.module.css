@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    height: 90%;
+}
+
+
+.container_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 48%;
+    height: 100%
+}

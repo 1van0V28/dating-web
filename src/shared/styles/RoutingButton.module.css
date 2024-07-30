@@ -1,0 +1,16 @@
+.button {
+    z-index: 1;
+    padding: 1vh;
+    font-size: medium;
+    color: #7400b8;
+    background-color: white;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #e9ecef;
+}
+
+.button:active {
+    color: #72efdd;
+}
